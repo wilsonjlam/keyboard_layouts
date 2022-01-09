@@ -19,6 +19,7 @@
 			"KC_EQL",
 			"KC_BSPC",
 			"KC_SLEP",
+
 			"KC_TAB",
 			"KC_Q",
 			"KC_W",
@@ -34,6 +35,7 @@
 			"KC_RBRC",
 			"KC_BSLS",
 			"TG(3)",
+
 			"LT(1,KC_ESC)",
 			"KC_A",
 			"KC_S",
@@ -49,6 +51,7 @@
 			"KC_ENT",
 			"KC_NO",
 			"KC_VOLU",
+
 			"KC_LSFT",
 			"KC_NO",
 			"KC_Z",
@@ -64,6 +67,7 @@
 			"KC_RSFT",
 			"KC_UP",
 			"KC_VOLD",
+
 			"KC_LCTL",
 			"KC_LALT",
 			"KC_LGUI",
@@ -96,6 +100,7 @@
 			"KC_F12",
 			"KC_DEL",
 			"KC_HOME",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
@@ -111,6 +116,7 @@
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
@@ -126,6 +132,7 @@
 			"KC_TRNS",
 			"KC_NO",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_NO",
 			"KC_TRNS",
@@ -141,6 +148,7 @@
 			"KC_MPLY",
 			"KC_BRIU",
 			"KC_MUTE",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
@@ -173,6 +181,7 @@
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_MS_BTN1",
@@ -188,6 +197,7 @@
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_MS_LEFT",
@@ -203,6 +213,7 @@
 			"KC_TRNS",
 			"KC_NO",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_NO",
 			"KC_TRNS",
@@ -218,6 +229,7 @@
 			"KC_DLR",
 			"KC_MS_ACCEL2",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
@@ -250,6 +262,7 @@
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"RGB_TOG",
 			"RGB_MOD",
@@ -265,6 +278,7 @@
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"EF_DEC",
 			"EF_INC",
@@ -280,6 +294,7 @@
 			"KC_TRNS",
 			"KC_NO",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_NO",
 			"KC_TRNS",
@@ -295,6 +310,7 @@
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
+
 			"KC_TRNS",
 			"KC_TRNS",
 			"KC_TRNS",
@@ -313,4 +329,3 @@
 		]
 	]
 }
-
